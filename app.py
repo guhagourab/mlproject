@@ -43,3 +43,4 @@ def predict_datapoint():
 
 if __name__=="__main__":
     app.run(host="0.0.0.0", debug=True) 
+    # will be deployed at 127.0.0.1:5000
